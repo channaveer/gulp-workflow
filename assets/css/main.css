@@ -1,0 +1,26 @@
+/*! main.scss v8.0.1 | MIT License */
+html {
+  box-sizing: border-box; }
+
+* {
+  margin: 0px;
+  padding: 0px; }
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box; }
+
+.container {
+  padding: 0px 30px; }
+
+body {
+  background: #eee; }
+
+.section {
+  border-radius: 25px;
+  background: #eee;
+  color: #333;
+  padding: 20px; }
+
+/*# sourceMappingURL=main.css.map */

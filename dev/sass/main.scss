@@ -1,0 +1,27 @@
+/*! main.scss v8.0.1 | MIT License */
+@import 'variable';
+html{
+    box-sizing: border-box;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+*,
+*::before,
+*::after{
+    box-sizing: border-box;
+}
+.container{
+    padding: 0px 30px;
+}
+body{
+    background: $light-grey;
+}
+
+.section{
+    border-radius: 25px;
+    background: $light-grey;
+    color: $primary-color;
+    padding: 20px;
+}
