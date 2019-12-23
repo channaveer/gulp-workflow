@@ -39,9 +39,9 @@ IMAGE LIBRARY REQUIREMENTS
 
 RUNNING
 --------
-1. Download or clone the project to your working directory
-2. Change directory to the downloaded project directory (By this step I assume you might have installed NodeJs, Gulp-Cli)
-3. Load Node Dependencies with the following command
-   npm install
-4. Now its time to rock with Gulp Task runner
-    gulp
+   1. Download or clone the project to your working directory
+   2. Change directory to the downloaded project directory (By this step I assume you might have installed NodeJs, Gulp-Cli)
+   3. Load Node Dependencies with the following command
+           npm install
+   4. Now its time to rock with Gulp Task runner
+           gulp
