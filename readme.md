@@ -2,6 +2,7 @@ REQUIREMENTS
 ------------
 
 1. NodeJs 
+   
     MAC (Latest version)
     ------
     brew install node@12 
@@ -15,6 +16,7 @@ REQUIREMENTS
     sudo apt install nodejs
 
 2. Gulp-Cli
+   
     npm install -g gulp-cli
 
 IMAGE LIBRARY REQUIREMENTS
