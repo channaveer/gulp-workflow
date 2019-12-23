@@ -43,7 +43,7 @@ RUNNING
    2. Change directory to the downloaded project directory (By this step I assume you might have installed NodeJs, Gulp-Cli)
    3. Load Node Dependencies with the following command
         
-        npm install
+        **npm install**
    4. Now its time to rock with Gulp Task runner
         
-        gulp
+        **gulp**
